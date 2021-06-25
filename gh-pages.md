@@ -1,3 +1,0 @@
-gh-pages.md
-
-git
